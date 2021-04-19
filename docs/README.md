@@ -18,4 +18,5 @@
 - Rectangle: `P = 2a + 2b`
 - Square: `P = 4a`
 - Triangle: `P = a + b + c`
+>>>>>>> 438b89a (L-05: Add user agreement)
 

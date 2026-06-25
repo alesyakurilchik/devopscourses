@@ -1,10 +1,8 @@
+# User agreement 
 
-# How to use calculator:
-1. Run `python calculate.py`
-2. Enter the figure name. Available are Circle, Square.
-3. Enter the function: Area or Perimeter.
-4. Enter figure sizes. Radius for circle, one side for square.
-5. Get the answer!
+Please check out License Agreement for personal usage terms and limitations
+
+---
 
 # Math formulas
 ## Area
@@ -18,4 +16,5 @@
 - Rectangle: `P = 2a + 2b`
 - Square: `P = 4a`
 - Triangle: `P = a + b + c`
+>>>>>>> 438b89a (L-05: Add user agreement)
 
